@@ -10,7 +10,7 @@ Hi there, I'm Anita 👋
 </h3>
 
 <h3 align="center">
-I'm a Full-Stack Web Developer 💻!
+I'm a Full-Stack Developer 💻!
 </h3>
 
 ## 💼 Technical Skills
